@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= 5% />
 
 ## Let's Connect On:
-<a href="mailto:rayneedust@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" a href="https://icons8.com/icon/30998/discord" /></a> <a href="https://discordapp.com/users/339060594906759178/" ><img src="https://img.icons8.com/color/48/000000/discord-logo.png" /></a>
+<a href="mailto:rayneedust@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" a href="https://icons8.com/icon/30998/discord" /></a> <a href="https://discordapp.com/users/339060594906759178/" ><img src="https://img.icons8.com/color/48/000000/discord-logo.png" /></a> <a href="t.me/raineedust" ><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 
 <!--
 **raineedust/raineedust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
