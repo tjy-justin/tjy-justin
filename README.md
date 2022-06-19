@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # This is Jin Yi
-## Web Development Enthusiast
+## Fullstack Web Developer
 
-- 📚 I'm currently learning JavaScript
-- 🎨 I have developed projects utilizing HTML and CSS
+- 📚 I'm currently learning Fullstack Web development 
+- 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
 ## Languages & Tools I Use
@@ -15,7 +15,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Let's Connect On:
-<a href="mailto:rayneedust@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width= 6% /></a> <a href="https://discordapp.com/users/339060594906759178/" width= 6% ><img src="https://img.icons8.com/color/48/000000/discord--v2.png" width= 6% /></a> <a href="https://t.me/raineedust" ><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width= 6% /></a>
+<a href="mailto:rayneedust@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width= 25vw /></a> <a href="https://discordapp.com/users/339060594906759178/" width= 20vw ><img src="https://img.icons8.com/color/48/000000/discord--v2.png" width= 25vw /></a> <a href="https://t.me/raineedust" ><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width= 25vw /></a>
 
 <!--
 **raineedust/raineedust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
