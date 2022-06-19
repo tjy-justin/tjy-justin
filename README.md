@@ -8,7 +8,11 @@
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
 ## Languages & Tools I Use
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 5% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width= 5% />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Let's Connect On:
 <a href="mailto:rayneedust@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width= 6% /></a> <a href="https://discordapp.com/users/339060594906759178/" width= 6% ><img src="https://img.icons8.com/color/48/000000/discord--v2.png" width= 6% /></a> <a href="https://t.me/raineedust" ><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width= 6% /></a>
