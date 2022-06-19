@@ -3,7 +3,7 @@
 # This is Jin Yi
 ## Fullstack Web Developer
 
-- 📚 I'm currently learning Fullstack Web development 
+- 📚 I'm currently learning Fullstack Web Development, with the aspiration of breaking into the tech industry
 - 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
