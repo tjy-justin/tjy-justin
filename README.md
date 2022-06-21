@@ -8,6 +8,8 @@
 - 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raineedust)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages & Tools I Use
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
