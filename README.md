@@ -8,7 +8,10 @@
 - 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raineedust)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=raineedust"/>
+  </a>
 
 ## Languages & Tools I Use
 
