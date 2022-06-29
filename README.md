@@ -10,12 +10,10 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact"/>
+    <img width="500" title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=raineedust&count_private=true&show_icons=true"/>
   </a>
-
-<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=raineedust&count_private=true&show_icons=true"/>
+    <img width="376" title="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact"/>
   </a>
 
 ## Languages & Tools I Use
