@@ -28,7 +28,7 @@
 
 ## My Hobbies
 
-I like to play badminton 🏸 and go for walks 🚶‍♂️ frequently. I also enjoy reading 📖 about Sociology, Philosophy, Economics in my downtime.
+I like to play badminton 🏸, swim 🏊‍♂️, and go for walks 🚶‍♂️ frequently. I also enjoy reading 📖 about Sociology, Philosophy, Economics in my downtime.
 
 ## Let's Connect On:
 
