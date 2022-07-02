@@ -26,6 +26,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+## My Hobbies
+
+I like to play badminton 🏸 and go for walks 🚶‍♂️ frequently. I also enjoy reading 📖 about Sociology, Philosophy, Economics in my downtime.
+
 ## Let's Connect On:
 
 <a href="mailto:rayneedust@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
