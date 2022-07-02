@@ -28,7 +28,7 @@
     
 ## My Hobbies
 
-I like to play badminton 🏸, swim 🏊‍♂️, tinker around with Tech 👨‍💻, and go for walks 🚶‍♂️ frequently.
+I like to play badminton 🏸, swim 🏊‍♂️, tinker around with Tech 👨‍💻, and go for walks 🚶‍♂️.
 
 During my webdev journey, I have also discovered a passion for Design 👨‍🎨.
 
