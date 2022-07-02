@@ -30,7 +30,7 @@
 
 I like to play badminton 🏸, swim 🏊‍♂️, tinker around with Tech 👨‍💻, and go for walks 🚶‍♂️.
 
-During my webdev journey, I have also discovered a passion for Design 👨‍🎨.
+During my webdev journey, I have also discovered a taste for Design 👨‍🎨.
 
 I also enjoy reading 📖 about Sociology, Philosophy, and Economics in my downtime.
 
