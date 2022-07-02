@@ -9,12 +9,30 @@
 - 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="450" title="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=raineedust&count_private=true&show_icons=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="450"
+      title="My Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=raineedust&count_private=true&show_icons=true"
+    />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="376" title="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      width="376"
+      title="My Github Stats"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact"
+    />
   </a>
+</p>
+
+    
+## My Hobbies
+
+I like to play badminton 🏸, swim 🏊‍♂️, tinker around with Tech 👨‍💻, and go for walks 🚶‍♂️ frequently.
+
+During my webdev journey, I have also discovered a passion for Design 👨‍🎨.
+
+I also enjoy reading 📖 about Sociology, Philosophy, and Economics in my downtime.
 
 ## Languages & Tools I Use
 
@@ -25,10 +43,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-## My Hobbies
-
-I like to play badminton 🏸, swim 🏊‍♂️, and go for walks 🚶‍♂️ frequently. I also enjoy reading 📖 about Sociology, Philosophy, Economics in my downtime.
 
 ## Let's Connect On:
 
