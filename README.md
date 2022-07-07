@@ -6,7 +6,6 @@
 
 - 📚 I'm currently learning Fullstack Web Development.
 - 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
-- 🤝 I'm looking for programming buddies to hold accountability sessions weekly!
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
