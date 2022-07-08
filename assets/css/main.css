@@ -2062,6 +2062,9 @@ input, select, textarea {
 
 	form {
 		margin: 0 0 2em 0;
+		padding-left: 15%;
+		padding-right: 15%;
+		padding-bottom: 2em;
 	}
 
 	label {
