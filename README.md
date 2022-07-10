@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# This is Jin Yi
+# This is Justin Tan
 
 ## Frontend Web Developer
 
