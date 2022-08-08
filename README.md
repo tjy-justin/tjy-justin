@@ -4,6 +4,7 @@
 
 ## Frontend Web Developer
 
+- ✍️ I'm currently pursuing Frontend Web Development as a freelancer.
 - 📚 I'm currently learning Fullstack Web Development.
 - 🎨 I have developed projects utilizing HTML, CSS, and JavaScript. Check out my pinned repositories below 👇!
 
