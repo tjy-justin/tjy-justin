@@ -2,6 +2,8 @@
 
 # This is Justin Tan
 
+> You do not rise to the level of your goals, you fall to the level of your systems. ― James Clear
+
 ## Frontend Web Developer
 
 - ✍️ I'm currently pursuing Frontend Web Development as a freelancer.
