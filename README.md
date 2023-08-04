@@ -13,13 +13,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="440"
-      title="My Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=raineedust&count_private=true&show_icons=true"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
       width="368"
       title="My Github Stats"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact&exclude_repo=raineedust"
