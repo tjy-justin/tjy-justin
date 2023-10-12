@@ -14,7 +14,7 @@
     <img
       width="368"
       title="My Github Stats"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineedust&layout=compact&exclude_repo=raineedust"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjy-justin&layout=compact&exclude_repo=raineedust"
     />
   </a>
 </p>
